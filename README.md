@@ -36,6 +36,3 @@
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/SarusTech/sarustech/main/assets/git.png"><img height="45" src="https://raw.githubusercontent.com/SarusTech/sarustech/main/assets/git.png" alt="Git" title="Git" style="max-width: 100%;"></a></code></p>
 </div>
 
-
-Follow me
-
