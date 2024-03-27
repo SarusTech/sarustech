@@ -1,4 +1,4 @@
-![Header](https://github.com/SarusTech/sarustech/blob/main/assets/ce222ec4155b166f6ec50ac609136f3f.jpg)
+![Header](https://github.com/SarusTech/sarustech/blob/main/assets/3 Benefits of Outsourcing the QA and Testing of Your New Programming Software.jpg)
 
 About me
 
